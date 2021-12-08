@@ -1,4 +1,4 @@
-Feature: I price home page
+Feature: We will verify the tests suggested for assignment
 
   Background:
     Given Open iprice home page
